@@ -4,3 +4,12 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+
+
+[[bin]]
+name = "set01_challenge01"
+path = "src/set01/challenge01.rs"
+
+[[bin]]
+name = "set01_challenge02"
+path = "src/set01/challenge02.rs"
